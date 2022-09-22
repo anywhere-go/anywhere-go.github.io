@@ -12,19 +12,20 @@ remote_theme: # "manid2/lone-wolf-theme"
 bootswatch_theme: "united" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
-lang: "en_US"
-title: "Lone Wolf Theme"
-description: "A simple bootstrap based jekyll theme."
-url: # site url e.g. "https://manid2.github.io"
+lang: "ko-KR"
+title: "세상을 놀라게 할 과학 기술 블로그"
+description: "심장이 뛰는 미래과학기술."
+url: "https://anywhere-go.github.io"
+repository: "https://github.com/anywhere-go/anywhere-go.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-author: mani_d2
+author: 이재우
 twitter:
-  username: mani_d2 # should be site's username
+  username:  
   card: summary
 logo: assets/images/lwt-logo-wolf-v2.png # PNG is SEO friendly
 # use below when there are social links for site
 #social:
-#  name: Mani Kumar
+#  name:  
 #  links:
 #    - https://twitter.com/mani_d2
 #    - https://www.linkedin.com/in/manid2/
